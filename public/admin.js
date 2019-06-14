@@ -13,7 +13,7 @@ var app = new Vue({
       {name: 'George Bush', id: 2, path: 'images/george_dubya_bush.jpg', info: '"It\'s clearly a budget. It\'s got a lot of numbers in it" -George'},
       {name: 'George Washington 1', id: 3, path: 'images/george_warshington.jpg', info: '"It is far better to be alone, than to be in bad company." -Georgy'},
       {name: 'George Washington 2', id: 4, path: 'images/george_washington_the_original_master_chief.jpg', info: '"My first wish is to see this plague of mankind, war, banished from the earth." -Georgy'},
-      {name: 'George Washington 3', id: 5, path: 'images/george_washington_zombiehunter.jpg', info: '"Let your discourse with men of business be short and comprehensive." -Georgy},
+      {name: 'George Washington 3', id: 5, path: 'images/george_washington_zombiehunter.jpg', info: '"Let your discourse with men of business be short and comprehensive." -Georgy'},
       {name: 'John F Kennedy', id: 6, path: 'images/john_f_kennedy_alien_hunter.jpg', info: '"Things do not happen. Things are made to happen." -JFK'},
       {name: 'Barack Obama', id: 7, path: 'images/obama_riding_a_lion.jpg', info: '"I\'m the president of the United States. I\'m not the emperor of the United States." -Obama'},
       {name: 'Richard Nixon', id: 8, path: 'images/richard_nixon_fighting_a_saber_tooth_tiger.jpg', info: '"Well, I screwed it up real good, didn\'t I?" -Richy'},
